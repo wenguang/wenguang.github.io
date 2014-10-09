@@ -4,7 +4,7 @@
   <title><![CDATA[wenguang's blog]]></title>
   <link href="http://wenguang.github.io/atom.xml" rel="self"/>
   <link href="http://wenguang.github.io/"/>
-  <updated>2014-10-08T20:48:23+08:00</updated>
+  <updated>2014-10-09T16:46:57+08:00</updated>
   <id>http://wenguang.github.io/</id>
   <author>
     <name><![CDATA[wenguang]]></name>
@@ -19,6 +19,8 @@
     <updated>2014-09-14T14:48:03+08:00</updated>
     <id>http://wenguang.github.io/blog/2014/09/14/unicodetext</id>
     <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/wenguang/blog-source/master/2014-09-14/UnicodeText.png" alt="" /></p>
+
+<p><a href="https://itunes.apple.com/us/app/unicodetext/id918756679?ls=1&amp;mt=12#"><img src="https://raw.githubusercontent.com/wenguang/blog-source/master/2014-09-14/Mac_App_Store_Badge_US_UK.png" alt="alt text" /></a></p>
 
 <h5>UnicodeText can fix text encoding problem by converting text files to unicode encoding.  It&rsquo;s intuitive and easy to use.  Most of the text formats supported.</h5>
 
