@@ -4,7 +4,7 @@
   <title><![CDATA[wenguang's blog]]></title>
   <link href="http://wenguang.github.io/atom.xml" rel="self"/>
   <link href="http://wenguang.github.io/"/>
-  <updated>2014-10-09T16:46:57+08:00</updated>
+  <updated>2014-10-17T21:08:36+08:00</updated>
   <id>http://wenguang.github.io/</id>
   <author>
     <name><![CDATA[wenguang]]></name>
@@ -12,6 +12,415 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Classify Starred Repos (Updating)]]></title>
+    <link href="http://wenguang.github.io/blog/2014/10/16/classify-starred-repos/"/>
+    <updated>2014-10-16T18:22:44+08:00</updated>
+    <id>http://wenguang.github.io/blog/2014/10/16/classify-starred-repos</id>
+    <content type="html"><![CDATA[<p>Github上关注的东东越来越多了，这里简单地分下类，以便自己日后查找使用。</p>
+
+<h2>Programming Method</h2>
+
+<p><strong><a href="https://github.com/ReactiveCocoa/ReactiveCocoa">ReactiveCocoa</a> :</strong> A framework for composing and transforming streams of values.</p>
+
+<p><strong><a href="https://github.com/ReactKit/ReactKit">ReactKit</a> :</strong> Swift Reactive Programming.</p>
+
+<p><strong><a href="https://github.com/steipete/Aspects">Aspects</a> :</strong> Delightful, simple library for aspect oriented programming.</p>
+
+<h2>xcode plugin</h2>
+
+<p><strong><a href="https://github.com/onevcat/VVDocumenter-Xcode">VVDocument-Xcode</a> :</strong> Xcode plug-in which helps you write Javadoc style documents easier.</p>
+
+<p><strong><a href="https://github.com/mattt/Xcode-Snippets">Xcode-Snippets</a> :</strong> A few code snippets from my Xcode arsenal.</p>
+
+<p><strong><a href="https://github.com/macoscope/CodePilot">CodePilot</a> :</strong> Code Pilot is an Xcode plugin which lets you woosh through your code and save a lot (and we mean a <em>lot</em>) of your time.</p>
+
+<p><strong><a href="https://github.com/trawor/XToDo">XToDO</a> :</strong> Xcode plugin to collect and list the <code>TODO</code>,<code>FIXME</code>,<code>???</code>,<code>!!!!</code>.</p>
+
+<p><strong><a href="https://github.com/ksuther/KSImageNamed-Xcode">KSImageNamed-Xcode</a> :</strong> Xcode plug-in that provides autocomplete for imageNamed: calls.</p>
+
+<p><strong><a href="https://github.com/supermarin/Alcatraz">Alcatraz</a> :</strong> Package manager for Xcode.</p>
+
+<p><strong><a href="https://github.com/johnno1962/injectionforxcode">injectionforxcode</a> :</strong> Runtime Code Injection for Objective-C &amp; Swift.</p>
+
+<p><strong><a href="https://github.com/fortinmike/XcodeBoost">XcodeBoost</a> :</strong> An Xcode plugin that aims to make altering and inspecting code quick and easy.</p>
+
+<p><strong><a href="https://github.com/qfish/XAlign">XAlign</a> :</strong> An amazing Xcode plugin to align regular code. it can align Xnything in any way you want.</p>
+
+<p><strong><a href="https://github.com/kattrali/cocoapods-xcode-plugin">cocoapods-xcode-plugin</a> :</strong> Dependency management helper for your CocoaPods, right in Xcode.</p>
+
+<p><strong><a href="https://github.com/Galeas/CocoaPodUI">CocoaPodUI</a> :</strong> XCode plugin that implements CocoaPods GUI.</p>
+
+<p><strong><a href="https://github.com/facebook/xctool">facebook/xctool</a> :</strong> xctool is a replacement for Apple&rsquo;s xcodebuild that makes it easier to build and test iOS and Mac projects.</p>
+
+<h2>Audio voip</h2>
+
+<p><strong><a href="https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine">TheAmazingAudioEngine</a> :</strong> Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don&rsquo;t have to.</p>
+
+<p><strong><a href="https://github.com/syedhali/EZAudio">EZAudio</a> :</strong> An iOS and OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.</p>
+
+<p><strong><a href="https://github.com/kstenerud/ObjectAL-for-iPhone">ObjectAL-for-iPhone</a> :</strong> Mac and iOS Audio development, minus the headache. ObjectAL is the easy Objective-C interface to OpenAL, AVAudioPlayer, and audio session management.</p>
+
+<p><strong><a href="https://github.com/alexbw/novocaine">novocaine</a> :</strong> Painless high-performance audio on iOS and Mac OS X.</p>
+
+<p><strong><a href="https://github.com/michaeltyson/TPAACAudioConverter">TPAACAudioConverter</a> :</strong> Easy-to-use Objective-C wrapper for AAC audio conversion.</p>
+
+<p><strong><a href="https://github.com/mumble-voip/mumblekit">mumblekit</a> :</strong> Objective-C-based Mumble client framework for iOS and Mac OS X.</p>
+
+<p><strong><a href="https://github.com/mumble-voip/mumble-iphoneos">mumble-iphoneos</a> :</strong> Mumble client for iOS-based devices.</p>
+
+<p><strong><a href="https://github.com/GargoyleSoftware/voip-client-ios">voip-client-ios</a> :</strong> VOIP Client for iPhone.</p>
+
+<p><strong><a href="https://github.com/polatolu/POVoiceHUD">POVoiceHUD</a> :</strong> POVoiceHUD is a HUD for voice recording on iOS devices with Google Translate Voice Input like interface.</p>
+
+<p><strong><a href="https://github.com/kesalin/AmericanEnglish">AmericanEnglish</a> :</strong> iPhone App for AmericanEnglish.</p>
+
+<h2>Video</h2>
+
+<p><strong><a href="https://github.com/shu223/SlowMotionVideoRecorder">SlowMotionViewRecorder</a> :</strong> 120 fps SLO-MO video recorder using AVFoundation. Including convenient wrapper class. Available on the iPhone5s.</p>
+
+<p><strong><a href="https://github.com/rFlex/SCRecorder">SCRecorder</a> :</strong> Complete iOS camera engine with Vine like pause/resume, filters, ghost mode, player with smooth loop, exporter with precise parameters.</p>
+
+<h2>Camera picker</h2>
+
+<p><strong><a href="https://github.com/tdginternet/TGCameraViewController">TGCameraViewController</a> :</strong> Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.</p>
+
+<p><strong><a href="https://github.com/uzysjung/UzysAssetsPickerController">UzysAssetsPickerController</a> :</strong> Alternative UIImagePickerController , You can take a picture with camera and pick multiple photos and videos.</p>
+
+<h2>WeChat-like</h2>
+
+<p><strong><a href="https://github.com/jessesquires/JSQMessagesViewController">JSQMessagesViewController</a> :</strong> An elegant messages UI library for iOS.</p>
+
+<p><strong><a href="https://github.com/xhzengAIB/MessageDisplayKit">MessageDisplayKit</a> :</strong> An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.</p>
+
+<h2>数据持久化</h2>
+
+<p><strong><a href="https://github.com/realm/realm-cocoa">realm-cocoa</a> :</strong> Realm is a mobile database: a replacement for Core Data &amp; SQLite.</p>
+
+<p><strong><a href="https://github.com/sqlcipher/sqlcipher">sqlcipher</a> :</strong> SQLCipher is an SQLite extension that provides 256 bit AES encryption of database.</p>
+
+<h2>安全</h2>
+
+<p><strong><a href="https://github.com/kharrison/UYLPasswordManager">UYLPassworkManager</a> :</strong> Simple iOS Keychain Access.</p>
+
+<p><strong><a href="https://github.com/AgileBits/onepassword-app-extension">onepassword-app-extension</a> :</strong> 1Password Extension for iOS Apps.</p>
+
+<h2>for AppStore*MacAppStore</h2>
+
+<p><strong><a href="https://github.com/realmacsoftware/RMConnecter">RMConnecter</a> :</strong> Connecter is an OS X app to help you interact with iTunes Connect’s Transporter binary, which allows you to interact with app metadata in iTunes Connect.</p>
+
+<h2>debug testing</h2>
+
+<p><strong><a href="https://github.com/kishikawakatsumi/ScreenRecorder">ScreenRecorder</a> :</strong> Capturing a screen as videos on iOS devices for user testing.</p>
+
+<p><strong><a href="https://github.com/johnno1962/Xtrace">Xtrace</a> :</strong> Trace Objective-C method calls by class or instance.</p>
+
+<p><strong><a href="https://github.com/facebook/chisel">facebook/chisel</a> :</strong> Chisel is a collection of LLDB commands to assist debugging iOS apps.</p>
+
+<p><strong><a href="https://github.com/kstenerud/KSCrash">KSCrash</a> :</strong> The Ultimate iOS Crash Reporter.</p>
+
+<h2>Segment</h2>
+
+<p><strong><a href="https://github.com/alikaragoz/AKSegmentedControl">AKSegmentedControl</a> :</strong> Fully customizable Segmented Control for iOS.</p>
+
+<h2>网络与通讯</h2>
+
+<p><strong><a href="https://github.com/robbiehanson/CocoaHTTPServer">CocoaHTTPServer</a> :</strong> A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.</p>
+
+<p><strong><a href="https://github.com/tonymillion/Reachability">Reachability</a> :</strong> ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability.</p>
+
+<p><strong><a href="https://github.com/pkyeck/socket.IO-objc">socket.IO-objc</a> :</strong> socket.io v0.7.2 — 0.9.x for iOS and OS X.</p>
+
+<p><strong><a href="https://github.com/rsms/peertalk">peertalk</a> :</strong> iOS and OS X Cocoa library for communicating over USB and TCP.</p>
+
+<h2>时间日历</h2>
+
+<p><strong><a href="https://github.com/TongG/Oh-My-Cal">Oh-My-Cal</a> (osx) :</strong> Oh My Cal! is a multifunctional and multi-mode calculator. It&rsquo;s very cool and convenient!</p>
+
+<p><strong><a href="https://github.com/Streetmage/INOYearCalendar">INOYearCalendar</a> (ios) :</strong> An example of iOS - like year calendar with additional events display support</p>
+
+<h2>列表（iOS）</h2>
+
+<p><strong><a href="https://github.com/CyberAgent/AMBTableViewController">AMBTableViewController</a> :</strong> Storyboard and Prototype Cells-centric block-based UITableView controller to manage complex layouts.</p>
+
+<p><strong><a href="https://github.com/CEWendel/SWTableViewCell">SWTableViewCell</a> :</strong> An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application).</p>
+
+<p><strong><a href="https://github.com/alikaragoz/MCSwipeTableViewCell">MCSwipeTableViewCell</a> :</strong> Convenient UITableViewCell subclass that implements a swippable content to trigger actions (similar to the Mailbox app).</p>
+
+<p><strong><a href="https://github.com/MortimerGoro/MGSwipeTableCell">MGSwipeTableCell</a> :</strong> An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.</p>
+
+<h2>列表（OSX）</h2>
+
+<p><strong><a href="https://github.com/Perspx/PXSourceList">PXSourceList</a> :</strong> Source List control for the Mac.</p>
+
+<h2>CollectionView (iOS)</h2>
+
+<p><strong><a href="https://github.com/steipete/PSTCollectionView">PSTCollectionView</a> :</strong> Open Source, 100% API compatible replacement of UICollectionView for iOS4.3+.</p>
+
+<h2>weather</h2>
+
+<p><strong><a href="https://github.com/CZWeatherKit/CZWeatherKit">CZWeatherKit</a> :</strong> A simple Cocoa weather library.</p>
+
+<h2>StatusBar</h2>
+
+<p><strong><a href="https://github.com/jaydee3/JDStatusBarNotification">JDStatusBarNotification</a> :</strong> [iOS] Easy, customizable notifications displayed on top of the statusbar.</p>
+
+<h2>UI-XX</h2>
+
+<p><strong><a href="https://github.com/andreamazz/AMTagListView">AMTagListView</a> :</strong> UIScrollView subclass that allows to add a list of highly customizable tags.</p>
+
+<h2>值Model KVO</h2>
+
+<p><strong><a href="https://github.com/facebook/KVOController">facebook/KVOController</a> :</strong> Simple, modern, thread-safe key-value observing for iOS and OS X.</p>
+
+<p><strong><a href="https://github.com/yuantiku/YTKKeyValueStore">YTKKeyValueStore</a> :</strong> A simple Key-Value storage tool, using Sqlite as backend.</p>
+
+<p><strong><a href="https://github.com/tumblr/TMCache">TMCache</a> :</strong> Fast parallel object cache for iOS and OS X.</p>
+
+<p><strong><a href="https://github.com/fabiocaccamo/FCUUID">FCUUID</a> :</strong> iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor.</p>
+
+<h2>Simulator</h2>
+
+<p><strong><a href="https://github.com/tue-savvy/SimulatorManager">SimulatorManager</a> (ios) :</strong> Simple Mac Application to perform quick access iOS Simulator Application data.</p>
+
+<p><strong><a href="https://github.com/shinydevelopment/SimulatorStatusMagic">SimulatorStatusMagic</a> :</strong> Clean up your status bar for taking screenshots on the iOS simulator.</p>
+
+<h2>Device</h2>
+
+<p><strong><a href="https://github.com/sebyddd/SDiPhoneVersion">SDiPhoneVersion</a> :</strong> Objective-C library for detecting the running device&rsquo;s model and screen size.</p>
+
+<h2>Menu</h2>
+
+<p><strong><a href="https://github.com/romaonthego/REMenu">REMenu</a> :</strong> Dropdown menu inspired by Vine.</p>
+
+<h2>导航 - Nav bar</h2>
+
+<p><strong><a href="https://github.com/andreamazz/AMScrollingNavbar">AMScrollingNavbar</a> :</strong> Scrollable UINavigationBar that follows the scrolling of a UIScrollView</p>
+
+<h2>导航 - side bar</h2>
+
+<p><strong><a href="https://github.com/romaonthego/RESideMenu">RESideMenu</a> :</strong> iOS 7/8 style side menu with parallax effect.</p>
+
+<p><strong><a href="https://github.com/ECSlidingViewController/ECSlidingViewController">ECSlidingViewController</a> :</strong> Customizable sliding view controller container.</p>
+
+<p><strong><a href="https://github.com/romaonthego/REFrostedViewController">REFrostedViewController</a> :</strong> iOS 7/8 style blurred view controller that appears on top of your view controller.</p>
+
+<p><strong><a href="https://github.com/Ramotion/adaptive-tab-bar">adaptive-tab-bar</a> :</strong> AdaptiveController is a &lsquo;Progressive Reduction&rsquo; Swift module for adding custom states to Native or Custom UI elements.</p>
+
+<h2>Utility</h2>
+
+<p><strong><a href="https://github.com/EvgenyKarkan/EKAlgorithms">EKAlgorighms</a> :</strong> EKAlgorithms contains some well known CS algorithms &amp; data structures.</p>
+
+<p><strong><a href="https://github.com/jaredsinclair/JTSHardwareInfo">JTSHardwareInfo</a> :</strong> A convenient and thorough utility for referencing iOS device hardware identifiers.</p>
+
+<p><strong><a href="https://github.com/intentkit/IntentKit">IntenKit</a> (ios) :</strong> An easier way to handle third-party URL schemes in iOS apps.</p>
+
+<p><strong><a href="https://github.com/xiaogaozi/princess-alist">princess-alist</a> :</strong> Dotfiles collection and more.</p>
+
+<h2>OpenSource Apps</h2>
+
+<p><strong><a href="https://github.com/uranusjr/macdown">macdown</a> :</strong> pen source Markdown editor for OS X.</p>
+
+<p><strong><a href="https://github.com/viewfinderco/viewfinder">viewfinder</a> and its <a href="https://github.com/viewfinderco/third_party">third_party</a> :</strong> Viewfinder client and server code.</p>
+
+<p><strong><a href="https://github.com/nothingmagical/cheddar-ios">cheddar-ios</a> :</strong> Cheddar for iOS.</p>
+
+<p><strong><a href="https://github.com/ming1016/RSSRead">RSSRead(已阅)</a> :</strong> “已阅”（iOS上开源RSS新闻阅读器），有兴趣？那就Pull Requests吧.</p>
+
+<p><strong><a href="https://github.com/Xuzz/newsyc">newsyc</a> :</strong> An iPhone Hacker News client.</p>
+
+<p><strong><a href="https://github.com/chrisballinger/ChatSecure-iOS">ChatSecure-iOS</a> :</strong> ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP.</p>
+
+<p><strong><a href="https://github.com/dennisreimann/ioctocat">ioctocat</a> :</strong> iOctocat v1 - GitHub for iOS (works on the iPhone, iPad, and iPod Touch).</p>
+
+<p><strong><a href="https://github.com/gaosboy/iOSSF">iOSSF</a> :</strong> SegmentFault官方App.</p>
+
+<h2>进度（iOS）</h2>
+
+<p><strong><a href="https://github.com/JonasGessner/JGProgressHUD">JGProgressHUD</a> :</strong> Powerful, simple and modern progress HUD for iOS. This ProgressHUD supports iOS 5 - iOS 8.</p>
+
+<p><strong><a href="https://github.com/cleexiang/CLProgressHUD">CLProgressHUD</a> :</strong> A colorful progress loading control for you iPhone or iPad APP.</p>
+
+<p><strong><a href="https://github.com/kaiinui/KIProgressView">KIProgressView</a> :</strong> [iOS] Medium, YouTube-like Progress View!</p>
+
+<h2>Notification (iOS)</h2>
+
+<p><strong><a href="https://github.com/LeoNatan/LNNotificationsUI">LNNotification</a> :</strong> A framework for displaying notifications similar to Apple&rsquo;s iOS 7 and iOS 8 notifications.</p>
+
+<p><strong><a href="https://github.com/gcamp/GCDiscreetNotificationView">GCDiscreetNotificationView</a> :</strong> A discreet, non-modal, notification view for iOS.</p>
+
+<h2>Popup（iOS）</h2>
+
+<p><strong><a href="https://github.com/carsonperrotti/CNPPopupController">CNPopupController</a> :</strong> CNPPopupController is a simple and versatile class for presenting a custom popup in a variety of fashions. It includes a many options for controlling how your popup appears and behaves.</p>
+
+<h2>Tip (iOS)</h2>
+
+<p><strong><a href="https://github.com/andreamazz/AMPopTip">AMPopTip</a> :</strong> An animated tooltip.</p>
+
+<h2>Alert Sheet</h2>
+
+<p><strong><a href="https://github.com/JonasGessner/JGActionSheet">JGActionSheet</a> :</strong> Feature-rich action sheet for iOS. This ActionSheet is a replacement for UIActionSheet, with iPad support!</p>
+
+<p><strong><a href="https://github.com/cwRichardKim/RKDropdownAlert">RKDropdownAlert</a> :</strong> iOS / Objective C: an extremely simple UIAlertView alternative.</p>
+
+<h2>搜索 (iOS)</h2>
+
+<p><strong><a href="https://github.com/Intermark/IMQuickSearch">IMQuickSearch</a> :</strong> Filtering your NSArrays of NSObjects like a BOSS.</p>
+
+<p><strong><a href="https://github.com/kewenya/SearchCoreTest">SearchCoreTest</a> :</strong> search contact by name or phone-number.</p>
+
+<h2>Button（iOS）</h2>
+
+<p><strong><a href="https://github.com/iBaro/VBFPopFlatButton">VBFPopFlatButton</a> :</strong> Flat button with 9 different states using POP.</p>
+
+<p><strong><a href="https://github.com/kronik/DKCircleButton">DKCircleButton</a> :</strong> Flat circle button with sonar tap animation.</p>
+
+<h2>Json RSS XML</h2>
+
+<p><strong><a href="https://github.com/icanzilb/JSONModel">JSONModel</a> :</strong> Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.</p>
+
+<p><strong><a href="https://github.com/mwaterfall/MWFeedParser">MWFeedParser</a> :</strong> An Objective-C RSS / Atom Feed Parser for iOS.</p>
+
+<h2>Image（iOS）</h2>
+
+<p><strong><a href="https://github.com/Haneke/HanekeSwift">HanekeSwift</a> :</strong> A lightweight generic cache for iOS written in Swift with extra love for images.</p>
+
+<p><strong><a href="https://github.com/kaiinui/UIColor-uiGradientsAdditions">UIColor-uiGradientsAdditions</a> :</strong> [iOS] Beautiful colors from uiGradients.</p>
+
+<p><strong><a href="https://github.com/Flipboard/FLAnimatedImage">FLAnimatedImage</a> :</strong> Performant animated GIF engine for iOS.</p>
+
+<p><strong><a href="https://github.com/leverdeterre/JMAnimatedImageView">JMAnimationImageView</a> :</strong> Subclass of UIImageView to drive easy animations (manual rotation, Carousel, GIF support).</p>
+
+<p><strong><a href="https://github.com/lukabernardi/LBBlurredImage">LBBlurredImage</a> :</strong> LBBlurredImage is an UIImageView category that permit to set an image and make this blurred.</p>
+
+<h2>image loading (iOS)</h2>
+
+<p><strong><a href="https://github.com/rs/SDWebImage">SDWebImage</a> :</strong> Asynchronous image downloader with cache support with an UIImageView category.</p>
+
+<h2>Color</h2>
+
+<p><strong><a href="https://github.com/VAlexander/Chameleon">Chameleno</a> :</strong> A Lightweight x Powerful Flat Color Framework for iOS.</p>
+
+<h2>滑页显示</h2>
+
+<p><strong><a href="https://github.com/mamaral/Onboard">Onboard</a> :</strong> Onboard provides developers with a quick and easy means to create a beautiful, engaging, and useful onboarding experience with only a few lines of code.</p>
+
+<h2>主题</h2>
+
+<p><strong><a href="https://github.com/mamaral/MAThemeKit">MAThemeKit</a> :</strong> MAThemeKit provides iOS developers the ability to create a coherent color theme throughout their entire application using a single line of code, removing the need to mess with the dozens of UIAppearance proxies for each UI component.</p>
+
+<h2>Share</h2>
+
+<p><strong><a href="https://github.com/liyong03/YLLongTapShare">YLLongTapShare</a> :</strong> Long Tap Sharing control for iOS.</p>
+
+<h2>访问权限</h2>
+
+<p><strong><a href="https://github.com/jianpx/ClusterPrePermissions">ClusterPrePermissions</a> (ios) :</strong> Cluster&rsquo;s reusable pre-permissions utility that lets developers ask the users on their own dialog for photos or contacts access, before making the system-based request. This is based on the Medium post by Cluster describing the different ways to ask for iOS permissions (<a href="https://medium.com/p/96fa4eb54f2c">https://medium.com/p/96fa4eb54f2c</a>).</p>
+
+<h2>定位</h2>
+
+<p><strong><a href="https://github.com/Estimote/iOS-Indoor-SDK">iOS-Indoor-SDK</a> :</strong> Estimote Indoor Location SDK allows real-time beacon-based mapping and indoor location.</p>
+
+<h2>动画效果</h2>
+
+<p><strong><a href="https://github.com/facebook/Shimmer">facebook/Shimmer</a> :</strong> An easy way to add a simple shimmering effect to any view in an iOS app, which is particularly useful as an unobtrusive loading indicator.</p>
+
+<p><strong><a href="https://github.com/intuit/AnimationEngine">AnimationEngine</a> :</strong> Easily build advanced custom animations on iOS.</p>
+
+<p><strong><a href="https://github.com/facebook/pop">facebook/pop</a> :</strong> Extensible iOS and OS X animation library.</p>
+
+<h2>HTML5 JS for iOS</h2>
+
+<p><strong><a href="https://github.com/nolimits4web/Framework7">Framework7</a> :</strong> Full Featured HTML Framework For Building iOS7 Apps.</p>
+
+<h2>PDF</h2>
+
+<p><strong><a href="https://github.com/PSPDFKit/PSPDFKit-Demo">PSPDFKit-Demo</a> :</strong> The leading framework for displaying and annotating PDFs in your iOS apps.</p>
+
+<p><strong><a href="https://github.com/semweb/GreatReader">GreatReader</a> :</strong> A &ldquo;great&rdquo; PDF reader for iOS. Available on the App Store.</p>
+
+<h2>图表（iOS）</h2>
+
+<p><strong><a href="https://github.com/honcheng/iOSPlot">iOSPlot</a> :</strong> Chart library for iOS.</p>
+
+<p><strong><a href="https://github.com/xhacker/TEAChart">TEAChart</a> :</strong> Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.</p>
+
+<p><strong><a href="https://github.com/Jawbone/JBChartView">JBChartView</a> :</strong> iOS-based charting library for both line and bar graphs.</p>
+
+<h2>Label (iOS)</h2>
+
+<p><strong><a href="https://github.com/xiangwangfeng/M80AttributedLabel">M80AttributedLabel</a> :</strong> Another attributed label using CoreText.</p>
+
+<p><strong><a href="https://github.com/honcheng/RTLabel">RTLabel</a> :</strong> simple rich text display for iOS using html-like markups.</p>
+
+<h2>Keyboard（iOS）</h2>
+
+<p><strong><a href="https://github.com/michaeltyson/TPKeyboardAvoiding">TPKeyboardAvoiding</a> :</strong> A drop-in universal solution for moving text fields out of the way of the keyboard in iOS.</p>
+
+<h2>Field Input (iOS)</h2>
+
+<p><strong><a href="https://github.com/slackhq/SlackTextViewController">SlackTextViewController</a> :</strong> A drop-in UIViewController subclass with a growing text input view and other useful messaging features.</p>
+
+<p><strong><a href="https://github.com/mamaral/MAFormViewController">MAFormViewController</a> :</strong> MAFormViewController is designed to be used in tandem with MATextFieldCells for extremely quick and easy UITableView-based form creation that automatically handles the form configuration, formatting, navigation, validation, and submission.</p>
+
+<p><strong><a href="https://github.com/andreamazz/UITextField-Shake">UITextField-Shake</a> :</strong> UITextField category that adds shake animation.</p>
+
+<p><strong><a href="https://github.com/tristanhimmelman/THContactPicker">THContactPicker</a> :</strong> An iOS view used for selecting contacts. This view is inspired by the contact selection in the iOS Mail and Messages apps.</p>
+
+<h2>CALayer-CG</h2>
+
+<p><strong><a href="https://github.com/hfossli/AGGeometryKit">AGGeometryKit</a> :</strong> Quadrilaterals on CALayer, CGGeometry-functions, UIView/CALayer properties and other invaluable tools.</p>
+
+<h2>View（iOS）</h2>
+
+<p><strong><a href="https://github.com/cyndibaby905/TwitterCover">TwitterCover</a> :</strong> TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.</p>
+
+<p><strong><a href="https://github.com/Ciechan/BCMeshTransformView">BCMeshTransformView</a> :</strong> Mesh transforms for UIView.</p>
+
+<p><strong><a href="https://github.com/onemightyroar/YRDropdownView">YRDropdownView</a> :</strong> iOS view library for displaying stylish alerts, warnings, &amp; errors.</p>
+
+<p><strong><a href="https://github.com/andreamazz/UIView-draggable">UIView-draggable</a> :</strong> UIView category that adds dragging capabilities.</p>
+
+<p><strong><a href="https://github.com/andreamazz/UIView-Shake">UIView-Shake</a> :</strong> UIView category that adds shake animation.</p>
+
+<p><strong><a href="https://github.com/andreamazz/UIView-Notify">UIView-Notify</a> :</strong> UIView category for simple user notifications.</p>
+
+<p><strong><a href="https://github.com/thegreatloser/DebugView">DebugView</a> :</strong> A simple way to debug your view hierarchy.</p>
+
+<h3>dynamics view (ios)</h3>
+
+<p><strong><a href="https://github.com/cwRichardKim/TinderSimpleSwipeCards">TinderSimpleSwipeCards</a> :</strong>the basics of a Tinder-like swipeable cards interface based off of <a href="http://guti.in/articles/creating-tinder-like-animations/.">http://guti.in/articles/creating-tinder-like-animations/.</a></p>
+
+<p><strong><a href="https://github.com/iBaro/VBFJellyView">VBFJellyView</a> :</strong> VBFJellyView is a custom view made out using UIKit Dynamics and with a very funny effect when adding behaviours to it.</p>
+
+<h2>for learning</h2>
+
+<p><strong><a href="https://github.com/shu223/iOS8-Sampler">iOS8-Sampler</a> :</strong> Code examples for the new functions of iOS 8.</p>
+
+<p><strong><a href="https://github.com/shu223/iOS7-Sampler">iOS7-Sample</a> :</strong> Code examples for the new functions of iOS 7.</p>
+
+<p><strong><a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a> :</strong> A community-driven framework for managing your zsh configuration. Includes 120+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</p>
+
+<p><strong><a href="https://github.com/vsouza/awesome-ios">awesome-ios</a> :</strong> <a href="https://github.com/vsouza/awesome-ios.">https://github.com/vsouza/awesome-ios.</a></p>
+
+<p><strong><a href="https://github.com/yishuiliunian/DZTableView">DZTableView</a> :</strong> 自己实现一个TableView，以及相关文章。</p>
+
+<h2>协作系统</h2>
+
+<p><strong><a href="https://github.com/CocoaPods/Specs">CocoaPods/Specs</a> :</strong> The CocoaPods Master Repo.</p>
+
+<p><strong><a href="https://github.com/gitlabhq/gitlabhq">gitlabhq</a> :</strong> Open source software to collaborate on code. Follow us on twitter @gitlabhq.</p>
+
+<h2>undefine</h2>
+
+<p><strong><a href="https://github.com/MobileChromeApps/mobile-chrome-apps">mobile-chrome-app</a> :</strong> Chrome apps on Android and iOS.</p>
+
+<p><strong><a href="https://github.com/kstenerud/iOS-Universal-Framework">iOS-Universal-Framework</a> :</strong> An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.</p>
+
+<p><strong><a href="https://github.com/jverkoey/nimbus">nimbus</a> :</strong> The iOS framework that grows only as fast as its documentation.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[UnicodeText]]></title>
